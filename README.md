@@ -222,6 +222,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Aprimoramentos futuros
+
+- [ ] Implementar testes unitários e de integração
+
 ## Entre em contato
 
 - Autor - [Hugo Lacerda](https://www.hugolacerda.dev)
