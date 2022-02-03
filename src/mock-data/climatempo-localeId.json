@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 3521,
+      "name": "Taubaté",
+      "state": "SP",
+      "country": "BR  "
+    },
+    {
+      "id": 3877,
+      "name": "Jundiaí",
+      "state": "SP",
+      "country": "BR  "
+    },
+    {
+      "id": 3777,
+      "name": "Pindamonhangaba",
+      "state": "SP",
+      "country": "BR  "
+    },
+    {
+      "id": 3477,
+      "name": "São Paulo",
+      "state": "SP",
+      "country": "BR  "
+    },
+    {
+      "id": 6282,
+      "name": "Aperibé",
+      "state": "RJ",
+      "country": "BR  "
+    },
+    {
+      "id": 6288,
+      "name": "Arraial do Cabo",
+      "state": "RJ",
+      "country": "BR  "
+    },
+    {
+      "id": 6290,
+      "name": "Baltazar",
+      "state": "RJ",
+      "country": "BR  "
+    }
+  ]
+}
